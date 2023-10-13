@@ -1,0 +1,24 @@
+asgiref==3.7.2
+attrs==23.1.0
+certifi==2023.7.22
+Django==4.2.5
+exceptiongroup==1.1.3
+h11==0.14.0
+idna==3.4
+iniconfig==2.0.0
+MiTienda @ file:///Users/rodrigo/Desktop/Postman%20screenshots/MiTienda-0.1.zip#sha256=d6b83bc39e4703cef8fcff0f19b5e399d322851bf8203f603824ff0d4d19b682
+outcome==1.2.0
+packaging==23.2
+Pillow==10.0.1
+pluggy==1.3.0
+PySocks==1.7.1
+pytest==7.4.2
+pytest-django==4.5.2
+selenium==4.12.0
+sniffio==1.3.0
+sortedcontainers==2.4.0
+sqlparse==0.4.4
+trio==0.22.2
+trio-websocket==0.10.4
+urllib3==2.0.4
+wsproto==1.2.0
